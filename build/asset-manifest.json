@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/federicocermeno/react-gifapp/static/css/main.e2e6ad30.css",
+    "main.js": "/federicocermeno/react-gifapp/static/js/main.4b1c1bae.js",
+    "static/media/flechaderecha.png": "/federicocermeno/react-gifapp/static/media/flechaderecha.bee6f67315a863bd5df9.png",
+    "static/media/flechaizquierda.png": "/federicocermeno/react-gifapp/static/media/flechaizquierda.fc7611c5107a369a5d79.png",
+    "index.html": "/federicocermeno/react-gifapp/index.html",
+    "main.e2e6ad30.css.map": "/federicocermeno/react-gifapp/static/css/main.e2e6ad30.css.map",
+    "main.4b1c1bae.js.map": "/federicocermeno/react-gifapp/static/js/main.4b1c1bae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2e6ad30.css",
+    "static/js/main.4b1c1bae.js"
+  ]
+}

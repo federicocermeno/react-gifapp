@@ -1,0 +1,127 @@
+* {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+body {
+  margin: 0;
+  background-color: #fff;
+}
+
+#root {
+  background-color: #fff;
+  margin: 0%;
+}
+
+form {
+  background-color: darkgray;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+form input {
+  font-size: 1.5em;
+  margin: 10px;
+  padding: 3px;
+  text-align: center;
+}
+
+.flechas {
+  width: 3em;
+}
+
+.header-title {
+  font-size: 3em;
+  font-family: 'Koulen', cursive;
+  font-weight: 200;
+  text-align: center;
+  text-transform: capitalize;
+}
+
+.header-find {
+  text-align: center;
+}
+
+.card-grid{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 0 auto;
+  width: 80%;
+  position: relative;
+}
+
+.card-grid-header {
+  background-color: #83c5be;
+  font-size: 27px;
+  margin: 30px auto;
+  text-align: center;
+  width: 80%;
+  font-family: 'Quicksand', sans-serif;
+}
+
+.card {
+  align-content: center;
+  border: 1px solid grey;
+  border-radius: 6px;
+  margin: 20px;
+  overflow: hidden;
+}
+
+.card:hover img {
+  transform: scale(1.1);
+}
+
+.card p {
+  padding: 5px;
+  text-align: center;
+}
+
+.card img {
+  max-height: 200px;
+  display: flex;
+}
+
+.description {
+  align-items: center;
+  background: black;
+  color: white;
+  display: flex;
+  justify-content: flex-end;
+  padding: 0 5px;
+  
+}
+
+.description-p {
+  font-weight: bold;
+  font-family: 'Quicksand', sans-serif;
+}
+
+.description img {
+  height: 30px;
+  width: 30px;
+}
+
+.footer {
+  align-items: center;
+  background-color: darkgray;
+  bottom: 0;
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+  position: relative;
+  width: 100%;
+}
+
+.footer a {
+  color: black;
+  font-size: 30px;
+  text-decoration: none;
+}
+
+.footer a:hover {
+  color: blue;
+  text-decoration: underline;
+
+}
