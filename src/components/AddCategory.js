@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 import flechaderecha from '../assets/img/flechaderecha.png'
 import flechaizquierda from '../assets/img/flechaizquierda.png'
 
